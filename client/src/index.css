@@ -159,12 +159,12 @@ section{
 }
 
 .logo{
-  margin-right:550px;
+  margin-right:0;
 }
 
 .logo h2 {
   color: white;
-  font-size: 32px;
+  font-size: 22px;
   font-weight: bold;
   margin: 0;
 }
