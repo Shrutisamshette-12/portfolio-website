@@ -4,7 +4,7 @@ html{
 }
 
 section{
-  scroll-margin-top: 90px;
+  scroll-margin-top: 110px;
 }
 
 * {
@@ -1110,13 +1110,14 @@ section{
 /* ================= ABOUT ================= */
 
 .about {
-  padding: 80px 8%;
+  padding: 110px 8% 80px;
   background: var(--card);
 }
 
 .about-container {
   max-width: 900px;
   margin: auto;
+  padding-top:30px;
   text-align: center;
 }
 
